@@ -1,0 +1,71 @@
+﻿p {
+    font-family: Tahoma;
+    font-size: 13px;
+    margin: 0px;
+    padding: 0px;
+}
+
+li {
+    font-family: Tahoma;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+table {
+    font-family: Tahoma;
+    font-size: 13px;
+}
+
+pre {
+    font-family: Tahoma;
+    font-size: 13px;
+}
+
+h1 {
+    font-family: Tahoma;
+    font-size: 30px;
+}
+
+select {
+    font-family: Tahoma;
+    font-size: 13px;
+}
+
+#log {
+    overflow: auto;
+    max-height: 300px;
+    list-style: none;
+    padding: 0;
+}
+
+    #log li {
+        border-top: 1px solid #ccc;
+        margin: 0;
+        padding: 10px 0;
+    }
+
+#status {
+    padding: 5px;
+    color: #fff;
+    background: #ccc;
+}
+
+    #status.fail {
+        background: #c00;
+    }
+
+    #status.success {
+        background: #0c0;
+    }
+
+    #status.offline {
+        background: #c00;
+    }
+
+    #status.online {
+        background: #0c0;
+    }
+
+#sigCanvas {
+    border: 1px solid #000000;
+}

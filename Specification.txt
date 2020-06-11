@@ -1,0 +1,5 @@
+Tools:
+******
+1-Syncfusion (for sign with certificates)
+2-Signotec (for pin configurations)
+3-Using Ldap to fetch x509 certificate (with nid)

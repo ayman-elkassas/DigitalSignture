@@ -1,0 +1,202 @@
+C:\Users\net3\Desktop\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\SigntureV4.5.dll.config
+C:\Users\net3\Desktop\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\SigntureV4.5.dll
+C:\Users\net3\Desktop\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\SigntureV4.5.pdb
+C:\Users\net3\Desktop\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\csc.exe
+C:\Users\net3\Desktop\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\csc.exe.config
+C:\Users\net3\Desktop\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\csc.rsp
+C:\Users\net3\Desktop\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\csi.exe
+C:\Users\net3\Desktop\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\csi.rsp
+C:\Users\net3\Desktop\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\net3\Desktop\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\net3\Desktop\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\net3\Desktop\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\net3\Desktop\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\net3\Desktop\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\net3\Desktop\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\net3\Desktop\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\net3\Desktop\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\net3\Desktop\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\net3\Desktop\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\System.AppContext.dll
+C:\Users\net3\Desktop\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\net3\Desktop\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\net3\Desktop\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\net3\Desktop\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\net3\Desktop\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\net3\Desktop\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\vbc.exe
+C:\Users\net3\Desktop\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\vbc.exe.config
+C:\Users\net3\Desktop\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\vbc.rsp
+C:\Users\net3\Desktop\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\VBCSCompiler.exe
+C:\Users\net3\Desktop\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\net3\Desktop\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\net3\Desktop\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\Syncfusion.Compression.Base.dll
+C:\Users\net3\Desktop\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\Syncfusion.Licensing.dll
+C:\Users\net3\Desktop\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\Syncfusion.Pdf.Base.dll
+C:\Users\net3\Desktop\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\Syncfusion.Compression.Base.xml
+C:\Users\net3\Desktop\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\Syncfusion.Pdf.Base.xml
+C:\Users\net3\Desktop\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\net3\Desktop\SigntureV4.5\SigntureV4.5\SigntureV4.5\obj\Debug\SigntureV4.5.csprojAssemblyReference.cache
+C:\Users\net3\Desktop\SigntureV4.5\SigntureV4.5\SigntureV4.5\obj\Debug\SigntureV4.5.csproj.CopyComplete
+C:\Users\net3\Desktop\SigntureV4.5\SigntureV4.5\SigntureV4.5\obj\Debug\SigntureV4.5.dll
+C:\Users\net3\Desktop\SigntureV4.5\SigntureV4.5\SigntureV4.5\obj\Debug\SigntureV4.5.pdb
+C:\Users\net3\Desktop\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\itextsharp.dll
+C:\Users\net3\Desktop\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\itextsharp.xml
+C:\Users\net3\Desktop\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\PdfSharp.Charting.dll
+C:\Users\net3\Desktop\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\PdfSharp.dll
+C:\Users\net3\Desktop\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\PdfSharp.xml
+C:\Users\net3\Desktop\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\PdfSharp.Charting.xml
+C:\Users\net3\Desktop\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\de\PdfSharp.resources.dll
+C:\Users\net3\Desktop\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\de\PdfSharp.Charting.resources.dll
+E:\New Sigggg\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\SigntureV4.5.dll.config
+E:\New Sigggg\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\SigntureV4.5.dll
+E:\New Sigggg\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\SigntureV4.5.pdb
+E:\New Sigggg\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\csc.exe
+E:\New Sigggg\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\csc.exe.config
+E:\New Sigggg\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\csc.rsp
+E:\New Sigggg\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\csi.exe
+E:\New Sigggg\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\csi.rsp
+E:\New Sigggg\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\New Sigggg\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\New Sigggg\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\New Sigggg\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\New Sigggg\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\New Sigggg\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\New Sigggg\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\New Sigggg\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\New Sigggg\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\New Sigggg\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\New Sigggg\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\System.AppContext.dll
+E:\New Sigggg\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\System.Collections.Immutable.dll
+E:\New Sigggg\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\New Sigggg\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\System.IO.FileSystem.dll
+E:\New Sigggg\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\New Sigggg\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\System.Reflection.Metadata.dll
+E:\New Sigggg\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\vbc.exe
+E:\New Sigggg\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\vbc.exe.config
+E:\New Sigggg\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\vbc.rsp
+E:\New Sigggg\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\VBCSCompiler.exe
+E:\New Sigggg\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\VBCSCompiler.exe.config
+E:\New Sigggg\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\itextsharp.dll
+E:\New Sigggg\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\New Sigggg\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\PdfSharp.Charting.dll
+E:\New Sigggg\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\PdfSharp.dll
+E:\New Sigggg\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\Syncfusion.Compression.Base.dll
+E:\New Sigggg\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\Syncfusion.Licensing.dll
+E:\New Sigggg\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\Syncfusion.Pdf.Base.dll
+E:\New Sigggg\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\itextsharp.xml
+E:\New Sigggg\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\PdfSharp.xml
+E:\New Sigggg\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\PdfSharp.Charting.xml
+E:\New Sigggg\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\Syncfusion.Compression.Base.xml
+E:\New Sigggg\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\Syncfusion.Pdf.Base.xml
+E:\New Sigggg\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\New Sigggg\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\de\PdfSharp.resources.dll
+E:\New Sigggg\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\de\PdfSharp.Charting.resources.dll
+E:\New Sigggg\SigntureV4.5\SigntureV4.5\SigntureV4.5\obj\Debug\SigntureV4.5.csprojResolveAssemblyReference.cache
+E:\New Sigggg\SigntureV4.5\SigntureV4.5\SigntureV4.5\obj\Debug\SigntureV4.5.dll
+E:\New Sigggg\SigntureV4.5\SigntureV4.5\SigntureV4.5\obj\Debug\SigntureV4.5.pdb
+D:\Markz\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\SigntureV4.5.dll.config
+D:\Markz\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\SigntureV4.5.dll
+D:\Markz\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\SigntureV4.5.pdb
+D:\Markz\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\csc.exe
+D:\Markz\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\csc.exe.config
+D:\Markz\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\csc.rsp
+D:\Markz\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\csi.exe
+D:\Markz\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\csi.rsp
+D:\Markz\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Markz\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Markz\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Markz\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Markz\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Markz\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Markz\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Markz\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Markz\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Markz\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Markz\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\System.AppContext.dll
+D:\Markz\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\System.Collections.Immutable.dll
+D:\Markz\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Markz\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\System.IO.FileSystem.dll
+D:\Markz\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Markz\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\System.Reflection.Metadata.dll
+D:\Markz\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\vbc.exe
+D:\Markz\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\vbc.exe.config
+D:\Markz\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\vbc.rsp
+D:\Markz\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\VBCSCompiler.exe
+D:\Markz\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\VBCSCompiler.exe.config
+D:\Markz\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\itextsharp.dll
+D:\Markz\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Markz\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\PdfSharp.Charting.dll
+D:\Markz\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\PdfSharp.dll
+D:\Markz\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\Syncfusion.Compression.Base.dll
+D:\Markz\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\Syncfusion.Licensing.dll
+D:\Markz\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\Syncfusion.Pdf.Base.dll
+D:\Markz\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\itextsharp.xml
+D:\Markz\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\PdfSharp.xml
+D:\Markz\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\PdfSharp.Charting.xml
+D:\Markz\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\Syncfusion.Compression.Base.xml
+D:\Markz\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\Syncfusion.Pdf.Base.xml
+D:\Markz\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Markz\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\de\PdfSharp.resources.dll
+D:\Markz\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\de\PdfSharp.Charting.resources.dll
+D:\Markz\SigntureV4.5\SigntureV4.5\SigntureV4.5\obj\Debug\SigntureV4.5.csprojAssemblyReference.cache
+D:\Markz\SigntureV4.5\SigntureV4.5\SigntureV4.5\obj\Debug\SigntureV4.5.csproj.CopyComplete
+D:\Markz\SigntureV4.5\SigntureV4.5\SigntureV4.5\obj\Debug\SigntureV4.5.dll
+D:\Markz\SigntureV4.5\SigntureV4.5\SigntureV4.5\obj\Debug\SigntureV4.5.pdb
+D:\Markz\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\zxing.dll
+D:\Markz\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\zxing.presentation.dll
+D:\Markz\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\zxing.pdb
+D:\Markz\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\zxing.xml
+D:\Markz\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\zxing.presentation.pdb
+D:\Markz\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\zxing.presentation.xml
+C:\Users\kasas\Desktop\Digital Signture\SigntureV4.5\SigntureV4.5\SigntureV4.5\obj\Debug\SigntureV4.5.csprojResolveAssemblyReference.cache
+C:\Users\kasas\Desktop\Digital Signture\SigntureV4.5\SigntureV4.5\SigntureV4.5\obj\Debug\SigntureV4.5.dll
+C:\Users\kasas\Desktop\Digital Signture\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\SigntureV4.5.dll.config
+C:\Users\kasas\Desktop\Digital Signture\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\SigntureV4.5.dll
+C:\Users\kasas\Desktop\Digital Signture\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\SigntureV4.5.pdb
+C:\Users\kasas\Desktop\Digital Signture\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\csc.exe
+C:\Users\kasas\Desktop\Digital Signture\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\csc.exe.config
+C:\Users\kasas\Desktop\Digital Signture\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\csc.rsp
+C:\Users\kasas\Desktop\Digital Signture\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\csi.exe
+C:\Users\kasas\Desktop\Digital Signture\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\csi.rsp
+C:\Users\kasas\Desktop\Digital Signture\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\kasas\Desktop\Digital Signture\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kasas\Desktop\Digital Signture\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\kasas\Desktop\Digital Signture\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\kasas\Desktop\Digital Signture\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\kasas\Desktop\Digital Signture\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\kasas\Desktop\Digital Signture\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\kasas\Desktop\Digital Signture\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\kasas\Desktop\Digital Signture\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\kasas\Desktop\Digital Signture\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\kasas\Desktop\Digital Signture\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\System.AppContext.dll
+C:\Users\kasas\Desktop\Digital Signture\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\kasas\Desktop\Digital Signture\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\kasas\Desktop\Digital Signture\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\kasas\Desktop\Digital Signture\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\kasas\Desktop\Digital Signture\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\kasas\Desktop\Digital Signture\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\vbc.exe
+C:\Users\kasas\Desktop\Digital Signture\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\vbc.exe.config
+C:\Users\kasas\Desktop\Digital Signture\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\vbc.rsp
+C:\Users\kasas\Desktop\Digital Signture\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\VBCSCompiler.exe
+C:\Users\kasas\Desktop\Digital Signture\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\kasas\Desktop\Digital Signture\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\itextsharp.dll
+C:\Users\kasas\Desktop\Digital Signture\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kasas\Desktop\Digital Signture\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\PdfSharp.Charting.dll
+C:\Users\kasas\Desktop\Digital Signture\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\PdfSharp.dll
+C:\Users\kasas\Desktop\Digital Signture\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\Syncfusion.Compression.Base.dll
+C:\Users\kasas\Desktop\Digital Signture\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\Syncfusion.Licensing.dll
+C:\Users\kasas\Desktop\Digital Signture\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\Syncfusion.Pdf.Base.dll
+C:\Users\kasas\Desktop\Digital Signture\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\zxing.dll
+C:\Users\kasas\Desktop\Digital Signture\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\zxing.presentation.dll
+C:\Users\kasas\Desktop\Digital Signture\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\itextsharp.xml
+C:\Users\kasas\Desktop\Digital Signture\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\PdfSharp.xml
+C:\Users\kasas\Desktop\Digital Signture\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\PdfSharp.Charting.xml
+C:\Users\kasas\Desktop\Digital Signture\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\Syncfusion.Compression.Base.xml
+C:\Users\kasas\Desktop\Digital Signture\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\Syncfusion.Pdf.Base.xml
+C:\Users\kasas\Desktop\Digital Signture\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\zxing.pdb
+C:\Users\kasas\Desktop\Digital Signture\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\zxing.xml
+C:\Users\kasas\Desktop\Digital Signture\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\zxing.presentation.pdb
+C:\Users\kasas\Desktop\Digital Signture\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\zxing.presentation.xml
+C:\Users\kasas\Desktop\Digital Signture\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kasas\Desktop\Digital Signture\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\de\PdfSharp.resources.dll
+C:\Users\kasas\Desktop\Digital Signture\SigntureV4.5\SigntureV4.5\SigntureV4.5\bin\de\PdfSharp.Charting.resources.dll
+C:\Users\kasas\Desktop\Digital Signture\SigntureV4.5\SigntureV4.5\SigntureV4.5\obj\Debug\SigntureV4.5.pdb

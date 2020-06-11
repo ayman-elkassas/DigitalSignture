@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d0b36bd9-4905-4387-a1f2-db979ddbdc4f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Digital Signture.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Certificate is not part from dom.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/Certificate is not part from dom.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/.vs/SigntureV4.5/config/applicationhost.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/.vs/SigntureV4.5/v16/.suo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/.vs/SigntureV4.5/v16/Server/sqlite3/db.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/.vs/SigntureV4.5/v16/Server/sqlite3/storage.ide" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5.v12.suo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Content/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Content/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Content/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Content/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Content/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Content/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Content/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Content/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Content/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Content/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Content/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Content/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Properties/AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/esm/popper-utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/esm/popper-utils.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/esm/popper-utils.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/esm/popper-utils.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/esm/popper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/esm/popper.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/esm/popper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/esm/popper.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/index.js.flow" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/jquery-3.5.1.intellisense.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/jquery-3.5.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/jquery-3.5.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/jquery-3.5.1.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/jquery-3.5.1.slim.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/jquery-3.5.1.slim.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/jquery-3.5.1.slim.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/popper-utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/popper-utils.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/popper-utils.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/popper-utils.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/popper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/popper.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/popper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/popper.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/src/methods/defaults.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/src/methods/destroy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/src/methods/disableEventListeners.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/src/methods/enableEventListeners.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/src/methods/placements.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/src/methods/update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/src/modifiers/applyStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/src/modifiers/arrow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/src/modifiers/computeStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/src/modifiers/flip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/src/modifiers/hide.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/src/modifiers/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/src/modifiers/inner.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/src/modifiers/keepTogether.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/src/modifiers/offset.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/src/modifiers/preventOverflow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/src/modifiers/shift.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/src/utils/clockwise.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/src/utils/computeAutoPlacement.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/src/utils/debounce.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/src/utils/find.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/src/utils/findCommonOffsetParent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/src/utils/findIndex.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/src/utils/getBordersSize.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/src/utils/getBoundaries.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/src/utils/getBoundingClientRect.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/src/utils/getClientRect.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/src/utils/getFixedPositionOffsetParent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/src/utils/getOffsetParent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/src/utils/getOffsetRect.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/src/utils/getOffsetRectRelativeToArbitraryNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/src/utils/getOppositePlacement.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/src/utils/getOppositeVariation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/src/utils/getOuterSizes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/src/utils/getParentNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/src/utils/getPopperOffsets.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/src/utils/getReferenceNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/src/utils/getReferenceOffsets.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/src/utils/getRoot.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/src/utils/getRoundedOffsets.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/src/utils/getScroll.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/src/utils/getScrollParent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/src/utils/getStyleComputedProperty.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/src/utils/getSupportedPropertyName.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/src/utils/getViewportOffsetRectRelativeToArtbitraryNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/src/utils/getWindow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/src/utils/getWindowSizes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/src/utils/includeScroll.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/src/utils/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/src/utils/isBrowser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/src/utils/isFixed.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/src/utils/isFunction.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/src/utils/isIE.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/src/utils/isModifierEnabled.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/src/utils/isModifierRequired.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/src/utils/isNumeric.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/src/utils/isOffsetContainer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/src/utils/removeEventListeners.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/src/utils/runModifiers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/src/utils/setAttributes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/src/utils/setStyles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/src/utils/setupEventListeners.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/umd/popper-utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/umd/popper-utils.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/umd/popper-utils.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/umd/popper-utils.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/umd/popper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/umd/popper.js.flow" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/umd/popper.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/umd/popper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/Scripts/umd/popper.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/bin/roslyn/Microsoft.CodeAnalysis.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/bin/roslyn/System.AppContext.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/bin/roslyn/System.Collections.Immutable.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/bin/roslyn/System.Diagnostics.StackTrace.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/bin/roslyn/System.IO.FileSystem.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/bin/roslyn/csi.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/bin/roslyn/csi.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/bin/roslyn/vbc.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/bin/roslyn/vbc.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/css/signotec.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/obj/Debug/DesignTimeResolveAssemblyReferences.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/obj/Debug/SigntureV4.5.csproj.CopyComplete" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/obj/Debug/SigntureV4.5.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/obj/Debug/SigntureV4.5.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/obj/Debug/SigntureV4.5.csprojResolveAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/obj/Debug/SigntureV4.5.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/obj/Debug/SigntureV4.5.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/testFiles/SignatureFields.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/testFiles/signtureImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/testFiles/~$w Microsoft Word Document.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/packages/ZXing.Net.0.16.5/.signature.p7s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/packages/ZXing.Net.0.16.5/ZXing.Net.0.16.5.nupkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/packages/ZXing.Net.0.16.5/lib/native/zxing.XML" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/packages/ZXing.Net.0.16.5/lib/native/zxing.pri" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/packages/ZXing.Net.0.16.5/lib/native/zxing.winmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/packages/ZXing.Net.0.16.5/lib/net20/zxing.XML" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/packages/ZXing.Net.0.16.5/lib/net20/zxing.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/packages/ZXing.Net.0.16.5/lib/net20/zxing.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/packages/ZXing.Net.0.16.5/lib/net35/zxing.XML" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/packages/ZXing.Net.0.16.5/lib/net35/zxing.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/packages/ZXing.Net.0.16.5/lib/net35/zxing.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/packages/ZXing.Net.0.16.5/lib/net40/zxing.XML" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/packages/ZXing.Net.0.16.5/lib/net40/zxing.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/packages/ZXing.Net.0.16.5/lib/net40/zxing.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/packages/ZXing.Net.0.16.5/lib/net40/zxing.presentation.XML" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/packages/ZXing.Net.0.16.5/lib/net40/zxing.presentation.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/packages/ZXing.Net.0.16.5/lib/net40/zxing.presentation.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/packages/ZXing.Net.0.16.5/lib/net45/zxing.XML" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/packages/ZXing.Net.0.16.5/lib/net45/zxing.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/packages/ZXing.Net.0.16.5/lib/net45/zxing.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/packages/ZXing.Net.0.16.5/lib/net45/zxing.presentation.XML" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/packages/ZXing.Net.0.16.5/lib/net45/zxing.presentation.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/packages/ZXing.Net.0.16.5/lib/net45/zxing.presentation.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/packages/ZXing.Net.0.16.5/lib/net47/zxing.XML" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/packages/ZXing.Net.0.16.5/lib/net47/zxing.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/packages/ZXing.Net.0.16.5/lib/net47/zxing.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/packages/ZXing.Net.0.16.5/lib/net47/zxing.presentation.XML" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/packages/ZXing.Net.0.16.5/lib/net47/zxing.presentation.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/packages/ZXing.Net.0.16.5/lib/net47/zxing.presentation.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/packages/ZXing.Net.0.16.5/lib/net48/zxing.XML" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/packages/ZXing.Net.0.16.5/lib/net48/zxing.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/packages/ZXing.Net.0.16.5/lib/net48/zxing.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/packages/ZXing.Net.0.16.5/lib/net48/zxing.presentation.XML" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/packages/ZXing.Net.0.16.5/lib/net48/zxing.presentation.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/packages/ZXing.Net.0.16.5/lib/net48/zxing.presentation.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/packages/ZXing.Net.0.16.5/lib/sl4/zxing.sl4.XML" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/packages/ZXing.Net.0.16.5/lib/sl4/zxing.sl4.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/packages/ZXing.Net.0.16.5/lib/sl4/zxing.sl4.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/packages/ZXing.Net.0.16.5/lib/sl5/zxing.sl5.XML" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/packages/ZXing.Net.0.16.5/lib/sl5/zxing.sl5.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/packages/ZXing.Net.0.16.5/lib/sl5/zxing.sl5.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/packages/ZXing.Net.0.16.5/lib/uap10/zxing.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/packages/ZXing.Net.0.16.5/lib/uap10/zxing.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/packages/ZXing.Net.0.16.5/lib/uap10/zxing.pri" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/packages/ZXing.Net.0.16.5/lib/uap10/zxing.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/packages/ZXing.Net.0.16.5/lib/wp8/zxing.wp8.0.XML" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/packages/ZXing.Net.0.16.5/lib/wp8/zxing.wp8.0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/packages/ZXing.Net.0.16.5/lib/wp8/zxing.wp8.0.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/packages/repositories.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/dll/Syncfusion.Compression.Portable.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/dll/Syncfusion.Compression.Portable.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/dll/Syncfusion.Licensing.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/dll/Syncfusion.Pdf.Portable.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/dll/Syncfusion.Pdf.Portable.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/dll/digitalSignature_pdf.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SigntureV4.5/new signture lib.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Specification.txt" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/PdfSignNow.asmx.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/PdfSignNow.asmx.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="472" />
+    <option name="y" value="-14" />
+    <option name="width" value="656" />
+    <option name="height" value="435" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Digital Signture" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Digital Signture" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Digital Signture" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Digital Signture" type="462c0819:PsiDirectoryNode" />
+              <item name="SigntureV4.5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Digital Signture" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Digital Signture" type="462c0819:PsiDirectoryNode" />
+              <item name="SigntureV4.5" type="462c0819:PsiDirectoryNode" />
+              <item name="SigntureV4.5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Digital Signture" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Digital Signture" type="462c0819:PsiDirectoryNode" />
+              <item name="SigntureV4.5" type="462c0819:PsiDirectoryNode" />
+              <item name="SigntureV4.5" type="462c0819:PsiDirectoryNode" />
+              <item name="SigntureV4.5" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="E:/xammp/htdocs" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d0b36bd9-4905-4387-a1f2-db979ddbdc4f" name="Default Changelist" comment="" />
+      <created>1591908078973</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591908078973</updated>
+      <workItem from="1591908095139" duration="1970000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1970000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.79049295" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Key Promoter X" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/SigntureV4.5/SigntureV4.5/SigntureV4.5/PdfSignNow.asmx.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
